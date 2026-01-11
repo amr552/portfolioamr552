@@ -647,3 +647,43 @@ footer {
         flex: 1;
     }
 }
+/* ... Previous CSS ... */
+
+/* --- Image Fitting Fixes --- */
+.project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Ensures image covers area without distortion */
+    object-position: center;
+}
+
+.cert-image {
+    width: 100%;
+    height: 200px;
+    /* Fixed height for consistency */
+    object-fit: contain;
+    /* Certificates often have text, contain is better to show full cert */
+    background-color: var(--card-bg);
+    /* Background if aspect ratio doesn't match */
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+}
+
+.hero-photo img {
+    object-fit: cover;
+}
+
+/* Specific fix for project cards to ensure image container has height */
+.project-image {
+    min-height: 200px;
+    overflow: hidden;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+    .cert-image {
+        height: auto;
+        min-height: 150px;
+    }
+}

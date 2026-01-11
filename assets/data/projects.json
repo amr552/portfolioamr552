@@ -1,30 +1,27 @@
 [
     {
-        "id": "project-1",
-        "title": "B2B Sales Pipeline Dashboard",
-        "description": "Designed a KPI dashboard for a SaaS sales team. Automated data ingestion from Salesforce/HubSpot API, cleaned data with Pandas, and visualized conversion rates in Streamlit.",
-        "approach": "ETL Pipeline with Python -> SQL Database -> Streamlit Dashboard",
-        "result": "Reduced reporting time by 40% and identified 2 major bottlenecks in the sales funnel.",
+        "id": "analyzsisproject1",
+        "title": "Car Crash Analysis Dashboard",
+        "description": "Insights of the analyzing: Here are the most big significant of accident causes: Unfortunatly most of people get distraction while drive which increase the accident. Moreover, It’s notice that sedan, station wagon or sport utility vehicle getting accidents more than the other types of vehicle. Also, Brooklyn_west, Queens_outer, Brooklyn_East, Manhattan_Midtown provinces are the most crashed areas. The winter season have the most rate of crashed happen through the year. \n The same insight we are getting through changing the peak or Peak_off hours except the summer season have higher accident in off_peak hours than the peak hours. The total people killed because of the accident belong the year are 640 and 125 people get injured while it’s notice that people get injured or killed because of accident in Peak_off hours more higher than peak hours.",
+        "approach": "PowerQuery -> PowerBI Dashboard",
+        "result": "Figured out the most significant causes of car crashes and provided insights on how to prevent them.",
         "tags": [
             "Data Analysis",
-            "Apps",
-            "Deployment"
+            "Dashboard",
+            "PowerBI"
         ],
         "category": "DS&DA",
         "tech": [
-            "Python",
-            "Pandas",
-            "Streamlit",
-            "SQL",
-            "Plotly"
+            "PowerQuery",
+            "PowerBI"
         ],
-        "date": "2023-11",
+        "date": "2025-10",
         "status": "Completed",
-        "image": "assets/img/project-sales.jpg",
+        "image": "assets/images/car_crashes_analysis.png",
         "links": {
-            "github": "https://github.com/username/sales-dashboard",
-            "demo": "https://sales-dashboard-demo.streamlit.app",
-            "linkedin": "#"
+            "github": "https://github.com/amr552/Analyzing-Crash-Causes",
+            "demo": "https://hwnmvk2yfjex8vmuesooij.streamlit.app/",
+            "linkedin": "https://www.linkedin.com/posts/amr552_i-hesitated-to-repost-the-same-project-and-activity-7383083223288885248-bkni?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBwnvIBvtS-YqbtgYoxJ0EQH3yvz0Ns0xo"
         },
         "featured": true
     },

@@ -1,0 +1,110 @@
+[
+    {
+        "id": "project-1",
+        "title": "B2B Sales Pipeline Dashboard",
+        "description": "Designed a KPI dashboard for a SaaS sales team. Automated data ingestion from Salesforce/HubSpot API, cleaned data with Pandas, and visualized conversion rates in Streamlit.",
+        "approach": "ETL Pipeline with Python -> SQL Database -> Streamlit Dashboard",
+        "result": "Reduced reporting time by 40% and identified 2 major bottlenecks in the sales funnel.",
+        "tags": [
+            "Data Analysis",
+            "Apps",
+            "Deployment"
+        ],
+        "category": "DS&DA",
+        "tech": [
+            "Python",
+            "Pandas",
+            "Streamlit",
+            "SQL",
+            "Plotly"
+        ],
+        "date": "2023-11",
+        "status": "Completed",
+        "image": "assets/img/project-sales.jpg",
+        "links": {
+            "github": "https://github.com/username/sales-dashboard",
+            "demo": "https://sales-dashboard-demo.streamlit.app",
+            "linkedin": "#"
+        },
+        "featured": true
+    },
+    {
+        "id": "project-2",
+        "title": "Real-Time Object Detection System",
+        "description": "Developing a lightweight object detection system for retail inventory management using YOLOv8 and webcam feed integration.",
+        "approach": "Fine-tuned YOLOv8 on custom dataset. Implemented tracking and counting logic.",
+        "result": "Achieved 92% mAP on test set with 30 FPS inference speed on edge device.",
+        "tags": [
+            "CV",
+            "ML",
+            "Deployment"
+        ],
+        "category": "ML&CV",
+        "tech": [
+            "Python",
+            "YOLOv8",
+            "OpenCV",
+            "PyTorch"
+        ],
+        "date": "2024-01",
+        "status": "In Progress",
+        "image": "assets/img/project-cv.jpg",
+        "links": {
+            "github": "https://github.com/username/retail-cv-system"
+        },
+        "featured": true
+    },
+    {
+        "id": "project-3",
+        "title": "Hybrid Learning: CNN + SVM",
+        "description": "Experimental comparison of end-to-end Deep Learning vs. feature extraction (CNN) fed into classical classifiers (SVM/RF).",
+        "approach": "Extracted features from ResNet50. Trained scikit-learn classifiers on embeddings.",
+        "result": "Hybrid model outperformed standard CNN by 2% on small dataset regime (Medical Imaging).",
+        "tags": [
+            "ML",
+            "CV",
+            "Research"
+        ],
+        "category": "ML&CV",
+        "tech": [
+            "PyTorch",
+            "scikit-learn",
+            "NumPy",
+            "Matplotlib"
+        ],
+        "date": "2023-09",
+        "status": "Completed",
+        "image": "assets/img/project-hybrid.jpg",
+        "links": {
+            "github": "https://github.com/username/cnn-svm-hybrid",
+            "paper": "#"
+        },
+        "featured": false
+    },
+    {
+        "id": "project-4",
+        "title": "AI Agent Orchestrator",
+        "description": "A workflow system where multiple LLM agents collaborate to summarize news and generate social media content automatically.",
+        "approach": "LangChain for orchestration. OpenAI API for reasoning. Telegram bot for delivery.",
+        "result": "Automated daily tech news digest generation with zero human intervention.",
+        "tags": [
+            "AI Agents",
+            "NLP",
+            "Apps"
+        ],
+        "category": "Agentic AI & Side Hustle",
+        "tech": [
+            "Python",
+            "LangChain",
+            "OpenAI API",
+            "Telegram API"
+        ],
+        "date": "2023-12",
+        "status": "Completed",
+        "image": "assets/img/project-agents.jpg",
+        "links": {
+            "github": "https://github.com/username/news-agent-bot"
+        },
+        "featured": true
+    }
+]

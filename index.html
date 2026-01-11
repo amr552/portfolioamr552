@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio of a Data Scientist & ML Engineer.">
+    <title>Portfolio Loading...</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Icons (using a lightweight CDN for generic icons if needed, or keeping it SVG based in JS) -->
+    <!-- We will use SVG injection in JS for strict no-dependency offline capability, 
+         but for the requested 'icons' we'll stick to our helper or a minimal set.
+    -->
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <div class="logo-area">
+                <a href="#" class="logo">Portfolio</a>
+            </div>
+
+            <nav class="nav-links">
+                <a href="#hero">Bio</a>
+                <a href="#timeline">Journey</a>
+                <a href="#projects">Projects</a>
+                <a href="#skills">Skills</a>
+            </nav>
+
+            <div class="header-actions">
+                <div id="header-socials" class="header-socials">
+                    <!-- Social Icons injected here -->
+                </div>
+                <!-- Certificate Icon -->
+                <a href="certificates.html" class="icon-btn" aria-label="Certificates" title="Learning Journey">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 10v6M2 10l10-5 10 5-10 5z" />
+                        <path d="M6 12v5c3 3 9 3 12 0v-5" />
+                    </svg>
+                </a>
+
+                <button id="qr-trigger" class="icon-btn" aria-label="Show QR Code" title="Share via QR">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 3h7v7H3z" />
+                        <path d="M14 3h7v7h-7z" />
+                        <path d="M14 14h7v7h-7z" />
+                        <path d="M3 14h7v7H3z" />
+                    </svg>
+                </button>
+                <a href="#" id="download-cv" class="icon-btn" aria-label="Download CV" title="Download Resume">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                        <polyline points="7 10 12 15 17 10" />
+                        <line x1="12" y1="15" x2="12" y2="3" />
+                    </svg>
+                </a>
+                <button id="theme-toggle" class="icon-btn" aria-label="Toggle Dark Mode" title="Toggle Theme">
+                    <span id="theme-icon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- Hero (Compact) -->
+        <section id="hero">
+            <div class="container hero-content">
+                <div class="hero-text">
+                    <h1 id="hero-name">Name</h1>
+                    <h2 id="hero-role">Role</h2>
+                    <p id="hero-summary">Summary</p>
+                    <div class="hero-tags" id="hero-tags">
+                        <!-- Brief highlights -->
+                    </div>
+                </div>
+                <div class="hero-photo">
+                    <!-- Optional Profile Photo Placeholder -->
+                    <div class="photo-placeholder"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills (Cross-Linking Hub) -->
+        <section id="skills">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Skills & Expertise</h2>
+                </div>
+                <p style="margin-bottom: 20px; font-size: 0.9rem; color: var(--text-secondary);">Click a skill to
+                    highlight related experience and projects.</p>
+                <div class="skills-wrapper" id="skills-cloud">
+                    <!-- Skills injected here -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Timeline (The "Deadline" / Main Interface) -->
+        <section id="timeline">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">My Journey</h2>
+                </div>
+                <!-- Vertical Timeline -->
+                <div class="timeline-vertical" id="timeline-list">
+                    <!-- Timeline items injected -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects (Detailed Cards) -->
+        <section id="projects">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Projects</h2>
+                </div>
+
+                <div class="controls">
+                    <div class="search-bar">
+                        <input type="text" id="project-search" placeholder="Search projects...">
+                    </div>
+                    <div class="filter-message" id="filter-message"></div>
+                </div>
+
+                <div class="projects-list" id="projects-grid">
+                    <!-- Project Cards injected -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Certificates (Toggleable) -->
+        <section id="certificates" class="hidden">
+            <div class="container">
+                <h2 class="section-title">Certificates</h2>
+                <div class="cert-grid" id="certificates-grid"></div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-socials" id="footer-socials">
+                <!-- Icons injected -->
+            </div>
+            <p>&copy; 2024. Built with Vanilla JS.</p>
+        </div>
+    </footer>
+
+    <!-- Modals -->
+    <div id="qr-modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h3>Scan to Connect</h3>
+            <div id="qr-code-display"
+                style="margin: 20px auto; width: 150px; height: 150px; background: #eee; display: flex; align-items: center; justify-content: center;">
+                [QR Code]
+            </div>
+            <p>Save to Contacts</p>
+        </div>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+[
+    {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/username",
+        "icon": "linkedin"
+    },
+    {
+        "platform": "GitHub",
+        "url": "https://github.com/username",
+        "icon": "github"
+    },
+    {
+        "platform": "Kaggle",
+        "url": "https://kaggle.com/username",
+        "icon": "kaggle"
+    },
+    {
+        "platform": "Email",
+        "url": "mailto:contact@example.com",
+        "icon": "mail"
+    },
+    {
+        "platform": "Discord",
+        "url": "#",
+        "icon": "discord"
+    }
+]

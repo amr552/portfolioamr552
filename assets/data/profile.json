@@ -1,0 +1,19 @@
+{
+  "basics": {
+    "name": "Amr Ahmed",
+    "role": "Data Analyst | Data Scientist | ML Engineer | Computer Vision MSc Student",
+    "label": "Data and AI Enthusiast",
+    "summary": "Building scalable AI solutions from data extraction to model deployment. Specializing in Computer Vision, reproducible pipelines, and interactive AI applications.",
+    "location": "Netherlands",
+    "email": "ahmed.m7619@gmail.com",
+    "phone": "+31 635652967",
+    "website": "https://username.github.io/portfolio",
+    "github": "https://github.com/amr552",
+    "linkedin": "https://www.linkedin.com/in/amr552/"
+  },
+  "config": {
+      "theme": "light",
+      "show_certificates": true,
+      "show_timeline": true
+  }
+}

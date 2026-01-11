@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Convolutional Neural Networks in TensorFlow",
+        "issuer": "Coursera (DeepLearning.AI)",
+        "date": "2024-02",
+        "link": "https://coursera.org/share/b0301927216a6007779a158402c575c6",
+        "image": "assets/img/cert-cnn.jpg",
+        "status": "Completed",
+        "category": "ML&CV"
+    },
+    {
+        "title": "Intro to TensorFlow for AI, ML & DL",
+        "issuer": "Coursera (DeepLearning.AI)",
+        "date": "2024-02",
+        "link": "https://coursera.org/share/86fe545ae50fb1b42bef7413b4777dda",
+        "image": "assets/img/cert-tf-intro.jpg",
+        "status": "Completed",
+        "category": "ML&CV"
+    },
+    {
+        "title": "Technical Support Fundamentals",
+        "issuer": "Coursera (Google)",
+        "date": "2023-02",
+        "link": "https://coursera.org/share/17c6c22b173707285410a5cb3edc9e62",
+        "image": "assets/img/cert-tech-support.jpg",
+        "status": "Completed",
+        "category": "DS&DA"
+    },
+    {
+        "title": "Introduction to AI",
+        "issuer": "Almdrasa",
+        "date": "2023-09",
+        "link": "#",
+        "image": "assets/img/cert-ai-intro.jpg",
+        "status": "Completed",
+        "category": "DS&DA"
+    },
+    {
+        "title": "Intl Congress of IT 2024",
+        "issuer": "TOGU University",
+        "date": "2024-01",
+        "link": "https://www.linkedin.com/posts/amr552_ai-techniques-to-diagnosis-plant-leaf-disease-activity-7242867723729330176-2QxX",
+        "image": "assets/img/cert-inftec.jpg",
+        "status": "Completed",
+        "category": "ML&CV"
+    },
+    {
+        "title": "Generative AI with LLMs",
+        "issuer": "Coursera (DeepLearning.AI)",
+        "date": "2024-05",
+        "link": "#",
+        "image": "assets/img/placeholder.jpg",
+        "status": "Ongoing",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "Advanced Computer Vision with GANs",
+        "issuer": "Udemy",
+        "date": "2024-08",
+        "link": "#",
+        "image": "assets/img/placeholder.jpg",
+        "status": "Future",
+        "category": "ML&CV"
+    }
+]

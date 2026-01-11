@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learning Journey and Certificates">
+    <title>Certificates & Courses - Portfolio</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <div class="logo-area">
+                <a href="index.html" class="logo">Portfolio</a>
+            </div>
+
+            <nav class="nav-links">
+                <a href="index.html#hero">Bio</a>
+                <a href="index.html#timeline">Journey</a>
+                <a href="index.html#projects">Projects</a>
+                <a href="#" class="active">Certificates</a>
+            </nav>
+
+            <div class="header-actions">
+                <div id="header-socials" class="header-socials">
+                    <!-- Socials injected by JS -->
+                </div>
+                <!-- Certificate Icon (Active) -->
+                <a href="certificates.html" class="icon-btn" aria-label="Certificates" title="Learning Journey"
+                    style="color: var(--accent-color);">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 10v6M2 10l10-5 10 5-10 5z" />
+                        <path d="M6 12v5c3 3 9 3 12 0v-5" />
+                    </svg>
+                </a>
+
+                <button id="theme-toggle" class="icon-btn" aria-label="Toggle Dark Mode">
+                    <span id="theme-icon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <section id="certificates-hero" style="padding-top: 100px; padding-bottom: 20px; text-align: center;">
+            <div class="container">
+                <h1 style="font-size: 2.5rem; margin-bottom: 10px;">Learning Journey</h1>
+                <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">
+                    Tracking professional development across Data Science, ML/CV, and AI Agents.
+                </p>
+            </div>
+        </section>
+
+        <!-- Filters -->
+        <section id="filters" style="padding: 0; border: none;">
+            <div class="container">
+                <div class="category-filters" id="cert-filters">
+                    <button class="cat-btn active" onclick="App.filterCertificates('all', this)">All</button>
+                    <button class="cat-btn" onclick="App.filterCertificates('DS&DA', this)">DS & DA</button>
+                    <button class="cat-btn" onclick="App.filterCertificates('ML&CV', this)">ML & CV</button>
+                    <button class="cat-btn" onclick="App.filterCertificates('Agentic AI & Side Hustle', this)">Agentic
+                        AI & Side Hustle</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Certificate Timeline -->
+        <section id="certificates-timeline">
+            <div class="container">
+                <div class="timeline-vertical" id="certificates-list">
+                    <!-- Certificates injected here -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-socials" id="footer-socials"></div>
+            <p>&copy; 2024. Learning Journey.</p>
+        </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

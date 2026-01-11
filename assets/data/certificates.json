@@ -4,16 +4,16 @@
         "issuer": "Coursera (DeepLearning.AI)",
         "date": "2024-02",
         "link": "https://coursera.org/share/b0301927216a6007779a158402c575c6",
-        "image": "assets/img/cert-cnn.jpg",
+        "image": "assets/images/Convolutional Neural Networks in TensorFlow.png",
         "status": "Completed",
         "category": "ML&CV"
     },
     {
-        "title": "Intro to TensorFlow for AI, ML & DL",
+        "title": "Introduction to TensorFlow for Artificial Intelligence, ML & DL",
         "issuer": "Coursera (DeepLearning.AI)",
         "date": "2024-02",
         "link": "https://coursera.org/share/86fe545ae50fb1b42bef7413b4777dda",
-        "image": "assets/img/cert-tf-intro.jpg",
+        "image": "assets/images/Introduction to TensorFlow for Artificial Intelligence, ML & DL.png",
         "status": "Completed",
         "category": "ML&CV"
     },
@@ -22,44 +22,26 @@
         "issuer": "Coursera (Google)",
         "date": "2023-02",
         "link": "https://coursera.org/share/17c6c22b173707285410a5cb3edc9e62",
-        "image": "assets/img/cert-tech-support.jpg",
+        "image": "assets/images/Technical Support Fundamentals.png",
         "status": "Completed",
         "category": "DS&DA"
     },
     {
         "title": "Introduction to AI",
-        "issuer": "Almdrasa",
-        "date": "2023-09",
+        "issuer": "https://almdrasa.com",
+        "date": "2025-09",
         "link": "#",
-        "image": "assets/img/cert-ai-intro.jpg",
-        "status": "Completed",
+        "image": "assets/images/Introduction to AI.png",
+        "status": "Future",
         "category": "DS&DA"
     },
     {
-        "title": "Intl Congress of IT 2024",
-        "issuer": "TOGU University",
+        "title": "International Congress of information technology 2024",
+        "issuer": "INFTEC-2024 TOGU University",
         "date": "2024-01",
-        "link": "https://www.linkedin.com/posts/amr552_ai-techniques-to-diagnosis-plant-leaf-disease-activity-7242867723729330176-2QxX",
-        "image": "assets/img/cert-inftec.jpg",
+        "link": "https://www.linkedin.com/posts/amr552_ai-techniques-to-diagnosis-plant-leaf-disease-activity-7242867723729330176-2QxX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBwnvIBvtS-YqbtgYoxJ0EQH3yvz0Ns0xo",
+        "image": "assets/images/INFTEC.png",
         "status": "Completed",
-        "category": "ML&CV"
-    },
-    {
-        "title": "Generative AI with LLMs",
-        "issuer": "Coursera (DeepLearning.AI)",
-        "date": "2024-05",
-        "link": "#",
-        "image": "assets/img/placeholder.jpg",
-        "status": "Ongoing",
-        "category": "Agentic AI & Side Hustle"
-    },
-    {
-        "title": "Advanced Computer Vision with GANs",
-        "issuer": "Udemy",
-        "date": "2024-08",
-        "link": "#",
-        "image": "assets/img/placeholder.jpg",
-        "status": "Future",
         "category": "ML&CV"
     }
 ]

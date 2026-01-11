@@ -1,22 +1,22 @@
 [
     {
         "platform": "LinkedIn",
-        "url": "https://linkedin.com/in/username",
+        "url": "https://www.linkedin.com/in/amr552/",
         "icon": "linkedin"
     },
     {
         "platform": "GitHub",
-        "url": "https://github.com/username",
+        "url": "https://github.com/amr552",
         "icon": "github"
     },
     {
         "platform": "Kaggle",
-        "url": "https://kaggle.com/username",
+        "url": "https://www.kaggle.com/amrdarwish701",
         "icon": "kaggle"
     },
     {
         "platform": "Email",
-        "url": "mailto:contact@example.com",
+        "url": "ahmed.m7619@gmail.com",
         "icon": "mail"
     },
     {

@@ -115,7 +115,10 @@ const App = {
         const container = document.getElementById('timeline-list');
         if (!container) return;
 
-        container.innerHTML = App.data.timeline.map((item) => {
+        // Sort by date descending (Newest/Future first)
+        const sortedTimeline = [...App.data.timeline].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        container.innerHTML = sortedTimeline.map((item) => {
             const relatedId = item.related_project_id ? `onclick="App.scrollToProject('${item.related_project_id}')" style="cursor:pointer;" title="Go to Project"` : '';
             return `
             <div class="timeline-entry" ${relatedId} data-skills="${item.skills ? item.skills.join(',') : ''}">
@@ -225,7 +228,10 @@ const App = {
         if (!container) return;
 
         const filter = App.state.activeCertFilter;
-        const certs = App.data.certificates.filter(c => filter === 'all' || c.category === filter);
+        let certs = App.data.certificates.filter(c => filter === 'all' || c.category === filter);
+
+        // Sort by date descending (Newest/Future first)
+        certs = certs.sort((a, b) => new Date(b.date) - new Date(a.date));
 
         container.innerHTML = certs.map(c => {
             const statusClass = c.status ? `status-${c.status.toLowerCase().replace(' ', '-')}` : '';

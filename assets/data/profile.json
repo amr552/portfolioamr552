@@ -9,11 +9,12 @@
     "phone": "+31 635652967",
     "website": "https://username.github.io/portfolio",
     "github": "https://github.com/amr552",
-    "linkedin": "https://www.linkedin.com/in/amr552/"
+    "linkedin": "https://www.linkedin.com/in/amr552/",
+    "image": "assets/img/profile.png"
   },
   "config": {
-      "theme": "light",
-      "show_certificates": true,
-      "show_timeline": true
+    "theme": "light",
+    "show_certificates": true,
+    "show_timeline": true
   }
 }

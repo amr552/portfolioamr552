@@ -91,6 +91,12 @@ const App = {
         setText('hero-name', p.name);
         setText('hero-role', p.role);
         setText('hero-summary', p.label);
+
+        // Render Profile Photo
+        const photoContainer = document.querySelector('.hero-photo');
+        if (photoContainer && p.image) {
+            photoContainer.innerHTML = `<img src="${p.image}" alt="${p.name}" onerror="this.style.display='none'">`;
+        }
     },
 
     renderSkills: () => {

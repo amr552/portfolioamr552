@@ -2,18 +2,20 @@
     {
         "id": "analyzsisproject1",
         "title": "Car Crash Analysis Dashboard",
-        "description": "Insights of the analyzing: Here are the most big significant of accident causes: Unfortunatly most of people get distraction while drive which increase the accident. Moreover, It’s notice that sedan, station wagon or sport utility vehicle getting accidents more than the other types of vehicle. Also, Brooklyn_west, Queens_outer, Brooklyn_East, Manhattan_Midtown provinces are the most crashed areas. The winter season have the most rate of crashed happen through the year. \n The same insight we are getting through changing the peak or Peak_off hours except the summer season have higher accident in off_peak hours than the peak hours. The total people killed because of the accident belong the year are 640 and 125 people get injured while it’s notice that people get injured or killed because of accident in Peak_off hours more higher than peak hours.",
+        "description": "Accidents are primarily driven by driver distraction. Analysis highlights high-risk areas like Brooklyn West and seasonal trends.",
         "approach": "PowerQuery -> PowerBI Dashboard",
-        "result": "Figured out the most significant causes of car crashes and provided insights on how to prevent them.",
+        "result": "Identified significant crash causes and preventive insights.",
         "tags": [
             "Data Analysis",
             "Dashboard",
-            "PowerBI"
+            "PowerBI",
+            "Data Science"
         ],
         "category": "DS&DA",
         "tech": [
             "PowerQuery",
-            "PowerBI"
+            "PowerBI",
+            "Excel"
         ],
         "date": "2025-10",
         "status": "Completed",
@@ -26,81 +28,300 @@
         "featured": true
     },
     {
-        "id": "project-2",
-        "title": "Real-Time Object Detection System",
-        "description": "Developing a lightweight object detection system for retail inventory management using YOLOv8 and webcam feed integration.",
-        "approach": "Fine-tuned YOLOv8 on custom dataset. Implemented tracking and counting logic.",
-        "result": "Achieved 92% mAP on test set with 30 FPS inference speed on edge device.",
+        "id": "sales_analysis_python_project2",
+        "title": "Sales Analysis Dashboard",
+        "description": "Comprehensive sales analysis by year, sector, and other parameters. Interactive dashboard built with Python.",
+        "approach": "Python -> Streamlit",
+        "result": "Dashboard created successfully.",
         "tags": [
-            "CV",
-            "ML",
-            "Deployment"
+            "Data Analysis",
+            "Dashboard",
+            "Data Science",
+            "Python"
         ],
-        "category": "ML&CV",
+        "category": "DS&DA",
         "tech": [
             "Python",
-            "YOLOv8",
-            "OpenCV",
-            "PyTorch"
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn",
+            "Streamlit"
         ],
-        "date": "2024-01",
-        "status": "In Progress",
-        "image": "assets/img/project-cv.jpg",
+        "date": "2025-10",
+        "status": "Completed",
+        "image": "assets\\images\\Sales pipeline.png",
         "links": {
-            "github": "https://github.com/username/retail-cv-system"
+            "github": "https://exdkc9bhlltxnwp2nqengp.streamlit.app/",
+            "demo": "https://hwnmvk2yfjex8vmuesooij.streamlit.app/"
         },
         "featured": true
     },
     {
-        "id": "project-3",
-        "title": "Hybrid Learning: CNN + SVM",
-        "description": "Experimental comparison of end-to-end Deep Learning vs. feature extraction (CNN) fed into classical classifiers (SVM/RF).",
-        "approach": "Extracted features from ResNet50. Trained scikit-learn classifiers on embeddings.",
-        "result": "Hybrid model outperformed standard CNN by 2% on small dataset regime (Medical Imaging).",
+        "id": "UK_Railway_streamlit_project3",
+        "title": "National Rail Sales Dashboard",
+        "description": "Explores railway sales and operational data. visualized routes, revenue, and delays.",
+        "approach": "Python -> Streamlit",
+        "result": "Interactive visualization of rail performance.",
         "tags": [
-            "ML",
-            "CV",
-            "Research"
+            "Data Analysis",
+            "Dashboard",
+            "Data Science"
+        ],
+        "category": "DS&DA",
+        "tech": [
+            "Python",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "seaborn",
+            "streamlit"
+        ],
+        "date": "2024-01",
+        "status": "Completed",
+        "image": "assets\\images\\UK_Train_performance.png",
+        "links": {
+            "github": "https://github.com/amr552/UK-Rail-/tree/main",
+            "demo": "https://pdxgl7tx9y5gbqyrdncawc.streamlit.app/"
+        },
+        "featured": true
+    },
+    {
+        "id": "tips_prediction_project4",
+        "title": "Tips Prediction ML",
+        "description": "Estimates recommended tips based on bill details. Includes feature impact analysis.",
+        "approach": "Machine Learning -> Streamlit App",
+        "result": "Model deployed with user interface.",
+        "tags": [
+            "Machine Learning",
+            "Dashboard",
+            "Data Science",
+            "Python"
         ],
         "category": "ML&CV",
         "tech": [
-            "PyTorch",
-            "scikit-learn",
-            "NumPy",
-            "Matplotlib"
+            "Python",
+            "Scikit-learn",
+            "Pandas",
+            "Streamlit"
         ],
-        "date": "2023-09",
+        "date": "2024-01",
         "status": "Completed",
-        "image": "assets/img/project-hybrid.jpg",
+        "image": "assets/images/tips_prediction.png",
         "links": {
-            "github": "https://github.com/username/cnn-svm-hybrid",
-            "paper": "#"
+            "github": "https://github.com/amr552/tips-prediction-Machine-learning-",
+            "demo": "https://hwnmvk2yfjex8vmuesooij.streamlit.app/"
+        },
+        "featured": true
+    },
+    {
+        "id": "car_price_ml",
+        "title": "Car Price Prediction",
+        "description": "Predicts used car selling prices using an Extra Trees Regressor model. Features robust preprocessing and an interactive Streamlit UI.",
+        "approach": "Extra Trees Regressor -> Streamlit",
+        "result": "Accurate price estimation with real-time inference.",
+        "tags": [
+            "Machine Learning",
+            "ML",
+            "Data Science"
+        ],
+        "category": "ML&CV",
+        "tech": [
+            "Python",
+            "Scikit-learn",
+            "Pandas",
+            "Streamlit",
+            "ExtraTreesRegressor"
+        ],
+        "date": "2025-01",
+        "status": "Completed",
+        "image": null,
+        "links": {
+            "github": "https://github.com/amr552/car_price_prediction_ML_model",
+            "demo": "https://carpricepredictionmlmodel-gqpfs42t2efevhkspnavfu.streamlit.app/"
         },
         "featured": false
     },
     {
-        "id": "project-4",
-        "title": "AI Agent Orchestrator",
-        "description": "A workflow system where multiple LLM agents collaborate to summarize news and generate social media content automatically.",
-        "approach": "LangChain for orchestration. OpenAI API for reasoning. Telegram bot for delivery.",
-        "result": "Automated daily tech news digest generation with zero human intervention.",
+        "id": "pizza_price_ml",
+        "title": "Pizza Price Prediction",
+        "description": "ML app for predicting pizza prices based on recipe parameters using Random Forest Regression.",
+        "approach": "Random Forest -> Streamlit",
+        "result": "High accuracy price prediction model.",
         "tags": [
-            "AI Agents",
-            "NLP",
+            "Machine Learning",
+            "ML",
+            "Data Science"
+        ],
+        "category": "ML&CV",
+        "tech": [
+            "Python",
+            "Scikit-learn",
+            "Random Forest",
+            "Streamlit"
+        ],
+        "date": "2025-01",
+        "status": "Completed",
+        "image": null,
+        "links": {
+            "github": "https://github.com/amr552/pizzapricepredictionregapp",
+            "demo": "https://pizzaprice.streamlit.app/"
+        },
+        "featured": false
+    },
+    {
+        "id": "crm_sales_opp",
+        "title": "CRM Sales Opportunities",
+        "description": "Analysis of sales opportunities and pipeline performance.",
+        "approach": "Python -> Streamlit",
+        "result": "Actionable sales insights.",
+        "tags": [
+            "Data Analysis",
+            "Dashboard",
+            "CRM"
+        ],
+        "category": "DS&DA",
+        "tech": [
+            "Python",
+            "Streamlit",
+            "Pandas"
+        ],
+        "date": "2025-01",
+        "status": "Completed",
+        "image": null,
+        "links": {
+            "github": "https://github.com/amr552/CRM-Sales-Opportunities"
+        },
+        "featured": false
+    },
+    {
+        "id": "excel_market_analysis",
+        "title": "Market Customer Analysis (Excel)",
+        "description": "Analysis of customer dataset with focus on data privacy mechanism (masking) and insights.",
+        "approach": "Excel Analysis",
+        "result": "Privacy-aware customer insights.",
+        "tags": [
+            "Data Analysis",
+            "Excel",
+            "Data Privacy"
+        ],
+        "category": "DS&DA",
+        "tech": [
+            "Excel",
+            "Data Analysis"
+        ],
+        "date": "2024-12",
+        "status": "Completed",
+        "image": null,
+        "links": {
+            "github": "https://github.com/amr552/analysis-by-excel-on-Market-s-Customer-dataset"
+        },
+        "featured": false
+    },
+    {
+        "id": "llm_interview_trainer",
+        "title": "AI Interview Trainer",
+        "description": "LLM-powered interview practice app. Features role-based questions, active recall hints, and senior-level feedback.",
+        "approach": "OpenAI API -> Web App",
+        "result": "Interactive study tool for candidates.",
+        "tags": [
+            "Agentic AI",
+            "LLM",
+            "Generative AI",
+            "NLP"
+        ],
+        "category": "Agentic AI & Side Hustle",
+        "tech": [
+            "Python",
+            "OpenAI API",
+            "Streamlit",
+            "Agentic AI"
+        ],
+        "date": "2025-01",
+        "status": "Completed",
+        "image": null,
+        "links": {
+            "github": "https://github.com/amr552/LLM_powered_Interview_questions"
+        },
+        "featured": true
+    },
+    {
+        "id": "llm_recipe_gen",
+        "title": "AI Recipe Generator",
+        "description": "Generates recipes based on ingredients and cuisine. Features dietary restrictions (Halal) and dual UI (Gradio/Streamlit).",
+        "approach": "LLM -> Gradio/Streamlit",
+        "result": "Customized recipe generation.",
+        "tags": [
+            "Agentic AI",
+            "LLM",
+            "Generative AI",
             "Apps"
         ],
         "category": "Agentic AI & Side Hustle",
         "tech": [
             "Python",
-            "LangChain",
             "OpenAI API",
-            "Telegram API"
+            "Gradio",
+            "Streamlit",
+            "Agentic AI"
         ],
-        "date": "2023-12",
+        "date": "2025-01",
         "status": "Completed",
-        "image": "assets/img/project-agents.jpg",
+        "image": null,
         "links": {
-            "github": "https://github.com/username/news-agent-bot"
+            "github": "https://github.com/amr552/LLM_AI_powered_reciepe_app"
+        },
+        "featured": false
+    },
+    {
+        "id": "llm_slide_gen",
+        "title": "Slide Prompt Builder",
+        "description": "AI tool to produce structured prompts for presentation slides. Solves the 'blank canvas' problem for slide creation.",
+        "approach": "LLM -> Prompt Engineering",
+        "result": "Structured slide outlines.",
+        "tags": [
+            "Agentic AI",
+            "LLM",
+            "Productivity"
+        ],
+        "category": "Agentic AI & Side Hustle",
+        "tech": [
+            "Python",
+            "OpenAI API",
+            "Prompt Engineering"
+        ],
+        "date": "2025-01",
+        "status": "Completed",
+        "image": null,
+        "links": {
+            "github": "https://github.com/amr552/LLM_AI_powered_Slide_generator"
+        },
+        "featured": false
+    },
+    {
+        "id": "llm_travel_planner",
+        "title": "AI Travel Planner",
+        "description": "Budget-aware travel itinerary generator. Handles group size, travel style, and accommodation preferences.",
+        "approach": "LLM -> Plannning Agent",
+        "result": "Detailed travel plans.",
+        "tags": [
+            "Agentic AI",
+            "LLM",
+            "Travel Tech"
+        ],
+        "category": "Agentic AI & Side Hustle",
+        "tech": [
+            "Python",
+            "OpenAI API",
+            "Streamlit",
+            "Gradio",
+            "Agentic AI"
+        ],
+        "date": "2025-01",
+        "status": "Completed",
+        "image": null,
+        "links": {
+            "github": "https://github.com/amr552/LLM_AI_powered_Travel_planner"
         },
         "featured": true
     }

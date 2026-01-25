@@ -1,0 +1,357 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-01-25T16:32:47.806Z",
+  "lastUpdated": "2026-01-25T16:32:47.806Z",
+  "workspaceRoot": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio",
+  "files": [
+    [
+      ".autoclaude\\enhanced-config.json",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\.autoclaude\\enhanced-config.json",
+        "relativePath": ".autoclaude\\enhanced-config.json",
+        "size": 3037,
+        "lastModified": "2026-01-25T16:32:46.212Z",
+        "hash": "74ecc31331e2b270a44e3cf608a8ed7b",
+        "language": "json"
+      }
+    ],
+    [
+      "assets\\css\\styles.css",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\css\\styles.css",
+        "relativePath": "assets\\css\\styles.css",
+        "size": 13112,
+        "lastModified": "2026-01-11T17:42:21.387Z",
+        "hash": "e068fbdeec547268c555181ee9d3b0e0",
+        "language": "css"
+      }
+    ],
+    [
+      "assets\\data\\certificates.json",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\data\\certificates.json",
+        "relativePath": "assets\\data\\certificates.json",
+        "size": 9742,
+        "lastModified": "2026-01-12T19:56:58.356Z",
+        "hash": "71cb999f868285f296857e44e498a229",
+        "language": "json"
+      }
+    ],
+    [
+      "assets\\data\\profile.json",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\data\\profile.json",
+        "relativePath": "assets\\data\\profile.json",
+        "size": 776,
+        "lastModified": "2026-01-11T22:21:03.573Z",
+        "hash": "df57cf8abb37c311de66d64b052b4007",
+        "language": "json"
+      }
+    ],
+    [
+      "assets\\data\\projects.json",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\data\\projects.json",
+        "relativePath": "assets\\data\\projects.json",
+        "size": 7162,
+        "lastModified": "2026-01-12T20:32:56.732Z",
+        "hash": "155528d2736c6ac2cf657113f30cb4ba",
+        "language": "json"
+      }
+    ],
+    [
+      "assets\\data\\socials.json",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\data\\socials.json",
+        "relativePath": "assets\\data\\socials.json",
+        "size": 584,
+        "lastModified": "2026-01-11T15:46:25.250Z",
+        "hash": "cfe9f338f1e4ab30c6090d5ad55b3fd2",
+        "language": "json"
+      }
+    ],
+    [
+      "assets\\data\\timeline.json",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\data\\timeline.json",
+        "relativePath": "assets\\data\\timeline.json",
+        "size": 2418,
+        "lastModified": "2026-01-12T19:59:41.983Z",
+        "hash": "875f054d05efc1a1fd47abdcb81b0a3e",
+        "language": "json"
+      }
+    ],
+    [
+      "assets\\images\\car_crashes_analysis.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\car_crashes_analysis.png",
+        "relativePath": "assets\\images\\car_crashes_analysis.png",
+        "size": 565939,
+        "lastModified": "2026-01-11T17:03:06.082Z",
+        "hash": "a38d5449a857c3cf5a3a118012964075"
+      }
+    ],
+    [
+      "assets\\images\\Convolutional Neural Networks in TensorFlow.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Convolutional Neural Networks in TensorFlow.png",
+        "relativePath": "assets\\images\\Convolutional Neural Networks in TensorFlow.png",
+        "size": 408635,
+        "lastModified": "2026-01-11T12:33:49.429Z",
+        "hash": "0ea9afb7e32fe822a7063bc15c376267"
+      }
+    ],
+    [
+      "assets\\images\\future_plan.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\future_plan.png",
+        "relativePath": "assets\\images\\future_plan.png",
+        "size": 609394,
+        "lastModified": "2026-01-11T22:34:01.583Z",
+        "hash": "1d7f769bef0deb5cb73feaa242fcf3a7"
+      }
+    ],
+    [
+      "assets\\images\\INFTEC.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\INFTEC.png",
+        "relativePath": "assets\\images\\INFTEC.png",
+        "size": 724365,
+        "lastModified": "2026-01-11T12:51:41.671Z",
+        "hash": "83c17939b3365f7f1b7faa1dcaa7a896"
+      }
+    ],
+    [
+      "assets\\images\\Introduction to AI.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Introduction to AI.png",
+        "relativePath": "assets\\images\\Introduction to AI.png",
+        "size": 341839,
+        "lastModified": "2026-01-11T12:50:55.187Z",
+        "hash": "5996e015e71ee1966831235846550d9c"
+      }
+    ],
+    [
+      "assets\\images\\Introduction to TensorFlow for Artificial Intelligence, ML & DL.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Introduction to TensorFlow for Artificial Intelligence, ML & DL.png",
+        "relativePath": "assets\\images\\Introduction to TensorFlow for Artificial Intelligence, ML & DL.png",
+        "size": 418215,
+        "lastModified": "2026-01-11T12:37:27.244Z",
+        "hash": "5497dd9de09628af19420d6f93597e26"
+      }
+    ],
+    [
+      "assets\\images\\personal-photo.jpeg",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\personal-photo.jpeg",
+        "relativePath": "assets\\images\\personal-photo.jpeg",
+        "size": 12182,
+        "lastModified": "2025-12-22T14:14:39.722Z",
+        "hash": "3b7d66559ce28cebf491afeea022c175"
+      }
+    ],
+    [
+      "assets\\images\\Sales pipeline.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Sales pipeline.png",
+        "relativePath": "assets\\images\\Sales pipeline.png",
+        "size": 142713,
+        "lastModified": "2026-01-11T19:32:17.359Z",
+        "hash": "277af95fd189880c08c1d7ffb3ec0518"
+      }
+    ],
+    [
+      "assets\\images\\suitpersonalphoto.jpeg",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\suitpersonalphoto.jpeg",
+        "relativePath": "assets\\images\\suitpersonalphoto.jpeg",
+        "size": 17286,
+        "lastModified": "2026-01-11T22:25:45.678Z",
+        "hash": "ffe741c05149ad662d918b871787c328"
+      }
+    ],
+    [
+      "assets\\images\\Technical Support Fundamentals.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Technical Support Fundamentals.png",
+        "relativePath": "assets\\images\\Technical Support Fundamentals.png",
+        "size": 424424,
+        "lastModified": "2026-01-11T12:42:31.885Z",
+        "hash": "595437d59a8bb726eae3aaa83314dff8"
+      }
+    ],
+    [
+      "assets\\images\\tips_prediction.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\tips_prediction.png",
+        "relativePath": "assets\\images\\tips_prediction.png",
+        "size": 128784,
+        "lastModified": "2026-01-12T20:31:50.983Z",
+        "hash": "9ff0ea5d31da0c56543a4a84020b28d8"
+      }
+    ],
+    [
+      "assets\\images\\UK_Train_performance.png",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\UK_Train_performance.png",
+        "relativePath": "assets\\images\\UK_Train_performance.png",
+        "size": 159462,
+        "lastModified": "2026-01-11T21:58:11.272Z",
+        "hash": "4326f8eb5ba75efeef9f51cf221e7ddd"
+      }
+    ],
+    [
+      "assets\\js\\main.js",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\js\\main.js",
+        "relativePath": "assets\\js\\main.js",
+        "size": 15618,
+        "lastModified": "2026-01-11T16:34:27.773Z",
+        "hash": "f3b3dcd5155ec1020944c21ee8840082",
+        "language": "javascript"
+      }
+    ],
+    [
+      "certificates.html",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\certificates.html",
+        "relativePath": "certificates.html",
+        "size": 4028,
+        "lastModified": "2026-01-11T15:00:24.013Z",
+        "hash": "2910544af0836197579387aa04e8269c",
+        "language": "html"
+      }
+    ],
+    [
+      "index.html",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\index.html",
+        "relativePath": "index.html",
+        "size": 7077,
+        "lastModified": "2026-01-11T16:42:06.318Z",
+        "hash": "bb4982070045f3249e3e4bf25cd610b7",
+        "language": "html"
+      }
+    ],
+    [
+      "README.md",
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\README.md",
+        "relativePath": "README.md",
+        "size": 2537,
+        "lastModified": "2026-01-11T11:50:31.211Z",
+        "hash": "9d9dae3d6f28251665605c6f0fb6f16e",
+        "language": "markdown"
+      }
+    ]
+  ],
+  "dependencies": {},
+  "structure": {
+    "type": "single",
+    "mainLanguages": [],
+    "frameworks": [],
+    "testFrameworks": [],
+    "buildTools": [],
+    "configFiles": []
+  },
+  "codebaseStats": {
+    "totalFiles": 23,
+    "totalLines": 520,
+    "filesByLanguage": [
+      [
+        "json",
+        6
+      ],
+      [
+        "css",
+        1
+      ],
+      [
+        "javascript",
+        1
+      ],
+      [
+        "html",
+        2
+      ],
+      [
+        "markdown",
+        1
+      ]
+    ],
+    "avgFileSize": 174753.4347826087,
+    "largestFiles": [
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\INFTEC.png",
+        "relativePath": "assets\\images\\INFTEC.png",
+        "size": 724365,
+        "lastModified": "2026-01-11T12:51:41.671Z",
+        "hash": "83c17939b3365f7f1b7faa1dcaa7a896"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\future_plan.png",
+        "relativePath": "assets\\images\\future_plan.png",
+        "size": 609394,
+        "lastModified": "2026-01-11T22:34:01.583Z",
+        "hash": "1d7f769bef0deb5cb73feaa242fcf3a7"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\car_crashes_analysis.png",
+        "relativePath": "assets\\images\\car_crashes_analysis.png",
+        "size": 565939,
+        "lastModified": "2026-01-11T17:03:06.082Z",
+        "hash": "a38d5449a857c3cf5a3a118012964075"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Technical Support Fundamentals.png",
+        "relativePath": "assets\\images\\Technical Support Fundamentals.png",
+        "size": 424424,
+        "lastModified": "2026-01-11T12:42:31.885Z",
+        "hash": "595437d59a8bb726eae3aaa83314dff8"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Introduction to TensorFlow for Artificial Intelligence, ML & DL.png",
+        "relativePath": "assets\\images\\Introduction to TensorFlow for Artificial Intelligence, ML & DL.png",
+        "size": 418215,
+        "lastModified": "2026-01-11T12:37:27.244Z",
+        "hash": "5497dd9de09628af19420d6f93597e26"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Convolutional Neural Networks in TensorFlow.png",
+        "relativePath": "assets\\images\\Convolutional Neural Networks in TensorFlow.png",
+        "size": 408635,
+        "lastModified": "2026-01-11T12:33:49.429Z",
+        "hash": "0ea9afb7e32fe822a7063bc15c376267"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Introduction to AI.png",
+        "relativePath": "assets\\images\\Introduction to AI.png",
+        "size": 341839,
+        "lastModified": "2026-01-11T12:50:55.187Z",
+        "hash": "5996e015e71ee1966831235846550d9c"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\UK_Train_performance.png",
+        "relativePath": "assets\\images\\UK_Train_performance.png",
+        "size": 159462,
+        "lastModified": "2026-01-11T21:58:11.272Z",
+        "hash": "4326f8eb5ba75efeef9f51cf221e7ddd"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\Sales pipeline.png",
+        "relativePath": "assets\\images\\Sales pipeline.png",
+        "size": 142713,
+        "lastModified": "2026-01-11T19:32:17.359Z",
+        "hash": "277af95fd189880c08c1d7ffb3ec0518"
+      },
+      {
+        "path": "c:\\Users\\ahmed\\Downloads\\personal files\\personal documents\\portfolio\\assets\\images\\tips_prediction.png",
+        "relativePath": "assets\\images\\tips_prediction.png",
+        "size": 128784,
+        "lastModified": "2026-01-12T20:31:50.983Z",
+        "hash": "9ff0ea5d31da0c56543a4a84020b28d8"
+      }
+    ]
+  }
+}

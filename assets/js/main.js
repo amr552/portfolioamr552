@@ -70,8 +70,8 @@ const App = {
         }
 
         const cvBtn = document.getElementById('download-cv');
-        if (cvBtn && App.data.profile.config?.cv_url) {
-            cvBtn.href = App.data.profile.config.cv_url;
+        if (cvBtn && (App.data.profile.basics?.cv_url || App.data.profile.config?.cv_url)) {
+            cvBtn.href = App.data.profile.basics?.cv_url || App.data.profile.config?.cv_url;
         }
     },
 

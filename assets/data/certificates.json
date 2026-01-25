@@ -1,5 +1,14 @@
 [
     {
+        "title": "Data Science and Analysis Internship",
+        "issuer": "teqanny",
+        "date": "2026-01",
+        "link": "",
+        "image": "assets/images/Data Science and Analysis Internship.png",
+        "status": "Completed",
+        "category": "DS&DA"
+    },
+    {
         "title": "Convolutional Neural Networks in TensorFlow",
         "issuer": "Coursera (DeepLearning.AI)",
         "date": "2024-02",
@@ -24,16 +33,16 @@
         "link": "https://coursera.org/share/17c6c22b173707285410a5cb3edc9e62",
         "image": "assets/images/Technical Support Fundamentals.png",
         "status": "Completed",
-        "category": "DS&DA"
+        "category": "Agentic AI & Side Hustle"
     },
     {
         "title": "Introduction to AI",
-        "issuer": "https://almdrasa.com",
+        "issuer": "Almdrasa",
         "date": "2025-09",
-        "link": "#",
+        "link": "https://almdrasa.com",
         "image": "assets/images/Introduction to AI.png",
-        "status": "Future",
-        "category": "DS&DA"
+        "status": "Completed",
+        "category": "Agentic AI & Side Hustle"
     },
     {
         "title": "International Congress of information technology 2024",
@@ -43,5 +52,176 @@
         "image": "assets/images/INFTEC.png",
         "status": "Completed",
         "category": "ML&CV"
+    },
+    {
+        "title": "Agentic AI",
+        "issuer": "DeepLearning.AI",
+        "date": "11/01/2026",
+        "link": "https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!",
+        "image": "assets\\images\\future_plan.png",
+        "status": "ongoing",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "AI Fluency: Framework & Foundations",
+        "issuer": "Anthropic",
+        "date": "***-**",
+        "link": "https://anthropic.skilljar.com/ai-fluency-framework-foundations",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "AWS Artificial Intelligence Practitioner",
+        "issuer": "FutureLearn",
+        "date": "***-***",
+        "link": "https://www.futurelearn.com/courses/aws-artificial-intelligence-practitioner/1/todo/202252",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "ML&CV"
+    },
+    {
+        "title": "5-Day AI Agents Intensive Course with Google",
+        "issuer": "Google&Kaggle",
+        "date": "***-***",
+        "link": "https://www.kaggle.com/learn-guide/5-day-agents",
+        "image": "assets\\images\\future_plan.png",
+        "status": "ongoing",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "Google data analytics Professional Certificate (DA)",
+        "issuer": "Google&Coursera",
+        "date": "2026/25/01",
+        "link": "https://www.coursera.org/professional-certificates/google-data-analytics?adposition=&hide_mobile_promo=&utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_desktop&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6490027433&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=20854471652&gclid=Cj0KCQiAsY3LBhCwARIsAF6O6XjLcTTG9OarnDfNqRH2g8gWB70a8cjcqktHwXChSqtEMTNGSR8nIPcaArc3EALw_wcB",
+        "image": "assets\\images\\future_plan.png",
+        "status": "ongoing",
+        "category": "DS&DA"
+    },
+    {
+        "title": "Google Advanced Data Analytics Professional Certificate (DS)",
+        "issuer": "Google&Coursera",
+        "date": "***-***",
+        "link": "https://www.coursera.org/professional-certificates/google-advanced-data-analytics",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "DS&DA"
+    },
+    {
+        "title": "IBM Data Science Professional Certificate (DA&S)",
+        "issuer": "IBM&Coursera",
+        "date": "***-***",
+        "link": "https://www.coursera.org/professional-certificates/ai-engineer",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "ML&CV"
+    },
+    {
+        "title": "IBM AI Engineering Professional Certificate (AI) ",
+        "issuer": "Google&Kaggle",
+        "date": "***-***",
+        "link": "https://www.kaggle.com/learn-guide/5-day-agents",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "Microsoft Certified: Azure AI Engineer Associate",
+        "issuer": "Microsoft",
+        "date": "***-***",
+        "link": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "ML&CV"
+    },
+    {
+        "title": "Data Engineer",
+        "issuer": "Google",
+        "date": "***-***",
+        "link": "https://www.skills.google/paths/16?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "DS&DA"
+    },
+    {
+        "title": "Fundamentals of Agent Development Kit (ADK)",
+        "issuer": "Google",
+        "date": "***-***",
+        "link": "https://www.skills.google/paths/3473",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "ChatGPT Prompt Engineering for Developers",
+        "issuer": "DeepLearning.AI",
+        "date": "***-***",
+        "link": "https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "Data Science for Marketing Analytics",
+        "issuer": "Udemy",
+        "date": "***-***",
+        "link": "https://www.udemy.com/course/data-science-for-marketing/learn/lecture/32497562?start=0#overview",
+        "image": "assets\\images\\future_plan.png",
+        "status": "ongoing",
+        "category": "DS&DA"
+    },
+    {
+        "title": "Artificial Intelligence Projects",
+        "issuer": "Udemy",
+        "date": "***-***",
+        "link": "https://www.udemy.com/course/artificial-intelligence-case-studies/learn/lecture/50591001?start=0#overview",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "DS&DA"
+    },
+    {
+        "title": "AI for Data Science",
+        "issuer": "Udemy",
+        "date": "***-***",
+        "link": "https://www.udemy.com/course/ai-for-data-analysis/learn/lecture/51041457?start=0#overview",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "DS&DA"
+    },
+    {
+        "title": "ما لا يسع الانسان جهله عن الذكاء الاصطناعي",
+        "issuer": "Udemy",
+        "date": "***-***",
+        "link": "https://www.udemy.com/course/must-know-ai/learn/lecture/50347829?start=0#overview",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "100 Days of Code™: The Complete Python Pro Bootcamp",
+        "issuer": "Udemy",
+        "date": "***-***",
+        "link": "https://www.udemy.com/course/100-days-of-code/learn/quiz/6113788#overview",
+        "image": "assets\\images\\future_plan.png",
+        "status": "ongoing",
+        "category": "DS&DA"
+    },
+    {
+        "title": "Introduction to Linear Algebra",
+        "issuer": "https://www.jlazovskis.com/teaching/linearalgebra/rbs-linalg.pdf",
+        "date": "***-***",
+        "link": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-1-the-geometry-of-linear-equations/",
+        "image": "assets\\images\\future_plan.png",
+        "status": "Future",
+        "category": "Agentic AI & Side Hustle"
+    },
+    {
+        "title": "Into to probability",
+        "issuer": "https://web.jfet.org/6.041-text/Probability.pdf",
+        "date": "***-***",
+        "link": "https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo",
+        "image": "assets\\images\\future_plan.png",
+        "status": "https://learning.edx.org/course/course-v1:HarvardX+STAT110x+2T2025/home?audit_mode=",
+        "category": "Agentic AI & Side Hustle"
     }
 ]

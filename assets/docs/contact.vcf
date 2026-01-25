@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Amr Ahmed
+N:Ahmed;Amr;;;
+TITLE:Data Scientist & ML Engineer
+EMAIL;TYPE=INTERNET:ahmed.m7619@gmail.com
+TEL;TYPE=CELL:+31635652967
+URL:https://amr552.github.io/portfolioamr552/
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/amr552/
+URL;TYPE=GitHub:https://github.com/amr552
+NOTE:Building scalable AI solutions.
+END:VCARD

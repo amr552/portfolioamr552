@@ -1,90 +1,129 @@
 [
-    {
-        "date": "2023-09",
-        "category": "Education",
-        "title": "MSc Computer Vision",
-        "description": "Specializing in Deep Learning and Computer Vision.",
-        "institution": "Tokat Gaziosmanpaşa University",
-        "skills": [
-            "CV",
-            "TensorFlow",
-            "Math"
-        ],
-        "links": [
-            {
-                "text": "Program Info",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "date": "2024-01",
-        "category": "Project",
-        "title": "Started Object Detection System",
-        "description": "Kicked off the retail inventory project using YOLOv8.",
-        "related_project_id": "project-2",
-        "skills": [
-            "CV",
-            "YOLOv8"
-        ],
-        "links": []
-    },
-    {
-        "date": "2023-11",
-        "category": "Project",
-        "title": "Sales Dashboard Launch",
-        "description": "Deployed the B2B dashboard for the client.",
-        "related_project_id": "project-1",
-        "skills": [
-            "Data Analysis",
-            "Streamlit"
-        ],
-        "links": []
-    },
-    {
-        "date": "2023-10",
-        "category": "Certificate",
-        "title": "TensorFlow Developer Certificate",
-        "description": "Passed the official Google TensorFlow exam.",
-        "skills": [
-            "ML",
-            "TensorFlow",
-            "DL"
-        ],
-        "links": [
-            {
-                "text": "View Certificate",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "date": "2023-06",
-        "category": "Project",
-        "title": "DataViz Helper Library",
-        "description": "Released v1.0 of open-source EDA tool.",
-        "skills": [
-            "Python",
-            "Open Source"
-        ],
-        "links": [
-            {
-                "text": "GitHub",
-                "url": "https://github.com/username/dataviz-helper"
-            }
-        ]
-    },
-    {
-        "date": "2022-09",
-        "category": "Education",
-        "title": "BSc Data Science",
-        "description": "Graduated with Honors. Capstone: Predictive maintenance.",
-        "institution": "Technical University",
-        "skills": [
-            "Data Analysis",
-            "ML",
-            "Statistics"
-        ],
-        "links": []
-    }
+  {
+    "date": "2026-09",
+    "category": "Education",
+    "title": "MSc in Computer Vision",
+    "institution": "Tokat Gaziosmanpaşa University",
+    "description": "Specializing in Deep Learning and Computer Vision.",
+    "skills": [
+      "Deep Learning",
+      "Computer Vision",
+      "TensorFlow",
+      "Mathematics"
+    ],
+    "links": [
+      { "text": "Program Info", "url": "#" }
+    ]
+  },
+  {
+    "date": "2026-06",
+    "category": "Volunteering",
+    "title": "Digital Skills & AI Courses Presenter (Volunteer Instructor)",
+    "organization": "Sahare Academy · Refugee Company · Cybersoek",
+    "description": "Volunteer instructor and technical support. Delivered ECDL-based digital skills training and helped learners troubleshoot common PC issues. Covered productivity tools, internet safety, privacy, and practical AI usage.",
+    "skills": [
+      "Technical Support",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Digital Literacy",
+      "AI Literacy & Privacy",
+      "Prompt Engineering",
+      "Communication",
+      "Computer Hardware Basics"
+    ],
+    "links": [
+      { "text": "View Certificate", "url": "#" }
+    ]
+  },
+  {
+    "date": "2025",
+    "category": "Internship",
+    "title": "Data Analysis & Data Science Bootcamp (Internship)",
+    "description": "Completed hands-on projects in data analysis (Python, SQL, Excel, Power BI) and later built predictive models using classical machine learning algorithms in Python.",
+    "related_projects": [
+      "UK Rail Performance",
+      "US Crash Causes Analytics",
+      "Smart Tip Predictor App"
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Excel",
+      "Machine Learning",
+      "Analytical Thinking"
+    ],
+    "links": []
+  },
+  {
+    "date": "2024",
+    "category": "Conference",
+    "title": "INFTEC 2024 (Research Presentation)",
+    "description": "Presented research on applying AI to ecosystem and food security use-cases.",
+    "related_projects": [
+      "Plant Disease Diagnosis"
+    ],
+    "skills": [
+      "Computer Vision",
+      "Pretrained Models",
+      "Research Communication"
+    ],
+    "links": []
+  },
+  {
+    "date": "2023-09",
+    "category": "Education",
+    "title": "BSc in Data Science",
+    "institution": "Tokat Gaziosmanpaşa University",
+    "description": "Graduated with honors. Capstone: Flutter-based mobile application (contacting/communication app).",
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Data Mining",
+      "Mathematics & Statistics",
+      "Web Development",
+      "Mobile Development (Flutter)",
+      "Cybersecurity (CTF)",
+      "Programming (Python, C#, Java)"
+    ],
+    "links": []
+  },
+  {
+    "date": "2023-06",
+    "category": "Project",
+    "title": "DataViz Helper Library",
+    "description": "Released v1.0 of an open-source EDA utility library to speed up exploratory analysis and visualization workflows.",
+    "skills": [
+      "Python",
+      "EDA",
+      "Open Source"
+    ],
+    "links": [
+      { "text": "GitHub", "url": "https://github.com/username/dataviz-helper" }
+    ]
+  },
+  {
+    "date": "2003-2016",
+    "category": "Sports Achievements",
+    "title": "Competitive Athlete (Gymnastics · Diving · Athletics · Kung Fu · MMA)",
+    "description": "Achieved multiple national and regional podium placements across gymnastics, diving, javelin throw, Kung Fu, and MMA between 2003 and 2016 in Egypt.",
+    "highlights": [
+      "Gymnastics (Egypt National Level): 2nd place (2x), 3rd place (3x) — 2003–2009",
+      "Diving (Egypt National Level): 2nd place, 6th place",
+      "Athletics – Javelin Throw (Regional Level): 2nd place",
+      "Kung Fu (Regional Level): Level 2",
+      "MMA (Regional Level): Level 2 — until 2016"
+    ],
+    "skills": [
+      "Discipline",
+      "Competitive Mindset",
+      "Performance Under Pressure",
+      "Consistency",
+      "Goal Setting",
+      "Teamwork",
+      "Time Management"
+    ],
+    "links": []
+  }
 ]

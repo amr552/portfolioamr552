@@ -162,7 +162,7 @@
         ],
         "date": "2025-01",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/Pizza Price Prediction.png",
         "links": {
             "github": "https://github.com/amr552/pizzapricepredictionregapp",
             "demo": "https://pizzaprice.streamlit.app/"
@@ -188,7 +188,7 @@
         ],
         "date": "2025-01",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/CRM Sales Opportunities.png",
         "links": {
             "github": "https://github.com/amr552/CRM-Sales-Opportunities"
         },
@@ -212,7 +212,7 @@
         ],
         "date": "2024-12",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/Market Customer Analysis.png",
         "links": {
             "github": "https://github.com/amr552/analysis-by-excel-on-Market-s-Customer-dataset"
         },
@@ -239,7 +239,7 @@
         ],
         "date": "2025-01",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/LLM_powered_Interview_questions.png",
         "links": {
             "github": "https://github.com/amr552/LLM_powered_Interview_questions"
         },
@@ -267,7 +267,7 @@
         ],
         "date": "2025-01",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/AI Recipe Generator.png",
         "links": {
             "github": "https://github.com/amr552/LLM_AI_powered_reciepe_app"
         },
@@ -292,7 +292,7 @@
         ],
         "date": "2025-01",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/LLM Slide Builder.png",
         "links": {
             "github": "https://github.com/amr552/LLM_AI_powered_Slide_generator"
         },
@@ -319,7 +319,7 @@
         ],
         "date": "2025-01",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/LLM AI Travel Planner.png",
         "links": {
             "github": "https://github.com/amr552/LLM_AI_powered_Travel_planner"
         },

@@ -90,20 +90,6 @@
     "links": []
   },
   {
-    "date": "2023-06",
-    "category": "Project",
-    "title": "DataViz Helper Library",
-    "description": "Released v1.0 of an open-source EDA utility library to speed up exploratory analysis and visualization workflows.",
-    "skills": [
-      "Python",
-      "EDA",
-      "Open Source"
-    ],
-    "links": [
-      { "text": "GitHub", "url": "https://github.com/username/dataviz-helper" }
-    ]
-  },
-  {
     "date": "2003-2016",
     "category": "Sports Achievements",
     "title": "Competitive Athlete (Gymnastics · Diving · Athletics · Kung Fu · MMA)",

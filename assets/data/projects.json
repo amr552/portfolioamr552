@@ -135,7 +135,7 @@
         ],
         "date": "2025-01",
         "status": "Completed",
-        "image": null,
+        "image": "assets/images/car-price-prediction.jpg",
         "links": {
             "github": "https://github.com/amr552/car_price_prediction_ML_model",
             "demo": "https://carpricepredictionmlmodel-gqpfs42t2efevhkspnavfu.streamlit.app/"
